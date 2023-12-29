@@ -1,0 +1,6 @@
+Sandbox_EN = {
+    Sandbox_GainHerbalism = "Gain Herbalism Trait",
+
+    Sandbox_GainHerbalism_LevelGained = "Foraging Level Required",
+    Sandbox_GainHerbalism_LevelGained_tooltip = "Foraging level at which the herbalism trait will be given to the character. Can be set from 0-10.",
+}

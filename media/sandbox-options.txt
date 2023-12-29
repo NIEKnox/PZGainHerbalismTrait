@@ -1,0 +1,10 @@
+VERSION = 1,
+
+option GainHerbalism.LevelGained {
+    type = Integer,
+	min = 0,
+	max = 10,
+	default = 7,
+	page = GainHerbalism,
+	translation = GainHerbalism_LevelGained,
+}
